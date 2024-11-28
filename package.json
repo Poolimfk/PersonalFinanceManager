@@ -1,0 +1,10 @@
+{
+  "name": "personalfinancemanager",
+ "version": "1.0.0",
+  "description": "Веб-приложение для управления личными финансами",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
